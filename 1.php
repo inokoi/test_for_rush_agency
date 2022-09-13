@@ -17,6 +17,6 @@ for ($i = 1; $i <= 50; $i++) {
     } else if ($first == 0) {
         printf("$yes \n");
     } else {
-        printf($i." \n");
+        printf("$i \n");
     }
 }
